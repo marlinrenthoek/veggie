@@ -1,0 +1,236 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Merriweather", Arial, serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #3c3c3c;
+  background-color: #fff;
+  background-image: url(../img/veggie-background.jpg);
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
+.main-navigation__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.main-navigation__link {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3c3c3c;
+  text-decoration: none;
+}
+
+.main-header {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 300;
+}
+
+.home {
+  background-color: #fbce11;
+  background-image: url(../img/yellow-background.jpg);
+}
+
+.home__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.home__item-header {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.home__item-text {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 300;
+}
+
+.specials {
+  background-color: #fff;
+}
+
+.specials__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  background-color: #f8f8f8;
+}
+
+.specials__header {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 300;
+}
+
+.specials__item-header {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+}
+
+.specials__item-text {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 300;
+}
+
+.specials__item-cost {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+}
+
+.about {
+  background-color: #eeefef;
+  background-image: url(../img/green-beams-background.jpg);
+  background-position: center;
+}
+
+.about__header {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 300;
+}
+
+.about__text {
+  width: 605px;
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 300;
+}
+
+.menu {
+  background-color: #fff;
+}
+
+.table-cost {
+  vertical-align: top;
+}
+
+.menu__header {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 300;
+}
+
+.menu-navigation__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.menu-navigation__link {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3c3c3c;
+  text-decoration: none;
+}
+
+.menu-table__dish {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.menu-table__сompound {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.menu-table__cost {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 300;
+}
+
+.contact {
+  background-color: #eeefef;
+  background-image: url(../img/plum-background.jpg);
+}
+
+.contact__header {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  line-height: 55px;
+  font-weight: 300;
+}
+
+.contact-info__header {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.contact-info__text {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.contact-form__header {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.contact-form__send-button {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3c3c3c;
+  background-color: #eeefef;
+  border: 0;
+}
+
+.contact__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
